@@ -1,0 +1,17 @@
+{
+	"name": "exfirestore",
+	"version": "0.0.1",
+	"main": "dist/index.js",
+	"preferGlobal": true,
+	"repository": "git@github.com:ShaunLWM/exfirestore.git",
+	"author": "ShaunLWM",
+	"license": "MIT",
+	"dependencies": {
+		"node-fetch": "^2.6.0",
+		"yargs": "^15.4.1"
+	},
+	"devDependencies": {
+		"@types/node-fetch": "^2.5.7",
+		"@types/yargs": "^15.0.5"
+	}
+}
